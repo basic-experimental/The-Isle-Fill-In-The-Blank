@@ -1,0 +1,41 @@
+# Common names
+The full name of the Isle "dinosaur" know as "pt" is _____|Pteradon|Notice "dinosaur" is in quotes
+The full name of the Isle dinosaur know to the community as the "tree rat" is _____|Herrerasaurus|Pounces from the trees
+The current name of the Isle dinosaur know legacy players as "utah" is _____|Omniraptor|Type of raptor
+The current name of the Isle dinosaur know as the "corpse bully" is _____|Ceratosaurus|Because of it's "body buff" mechanic
+The full name of the Isle dinosaur know as the "Unicorn of The Isle" is _____|Dryosaurus|Has a dodge mechanic
+The full name of the Isle dinosaur know as a "corpse bully" is _____|Ceratosaurus|Can make other dinos puke
+
+# Dino sounds
+The full name of the Isle dinosaur whose 1 call sounds like "oooowwwaaaaaaaa" is _____|Troodon|Also a famous sanc camper
+The full name of the Isle dinosaur known for its "bork" 1 call is _____|Omniraptor|One of the Isle's pouncers
+The full name of the Isle dinosaur known for its goose-like "honk" is _____|Gallimimus|gotta go fast
+The full name of the Isle dinosaur known for its very loud fights is _____|Ceratosaurus|Because of its charge bite
+
+# Gameplay roles and mechanics
+The full name of the Isle dinosaur that is commonly associated with the role of scavenger is _____|Ceratosaurus|Because of it's "body buff" mechanic
+The full name of the Isle dinosaur that is widly considered the most aggressive herbivore (NOT kentrosaurus) is _____|Pachycephalosaurus|bonk
+The full name of the Isle dinosaur that is the most famous sanc camper is _____|Troodon|oooowwwaaaaaaaa
+The full name of the Isle dinosaur that is the fastest on land is _____|Gallimimus|honk
+The full name of the Isle dinosaur that can make other dinos puke is _____|Ceratosaurus|Is also *very* loud
+
+# Vocabulary
+The name of the fluid that allows a Ceratosaurus to make other dinos puke is _____|bile|Digestive fluid
+The name of the branch of The Isle that most people play on is _____|Evrima
+The name of the current map for The Isle is _____|Gateway
+The name of the previous map for The Isle is _____|Spiro
+The default keybind to start recording a replay is _____|F2
+
+# Locations
+The name of the large human structure near South Plains is The _____|Pit
+Two lakes connected by a narrow channel are located in _____|Highlands
+
+# Mutations
+The name of the mutation that gives you increased swim speed is _____|Hydrodynamic
+The name of the mutation that makes fall damage hit stamina before draining health is Enlarged _____|Meniscus
+The name of the mutation that makes eating return a small amount of health is _____ Regeneration|Gastronomic
+The name of the mutation that allows females to nest without a mate is _____|Parthenogenesis
+The name of the mutation that allows carnivores to deal more damage the less hunger they have is _____ Inanition|Hypermetabolic
+The name of the mutation that gives herbivores a higher chance to dismount latched animals is _____|Truculency
+The name of the mutation that reduces incoming damage when fighting larger species is _____ Hypoalgesia|Congenital
+The name of the mutation that increases the stamina regeneration threshold is _____ Lungs|Multichambered
